@@ -1,2 +1,2 @@
 # Dnyaan-Setu
-Project which connect student and alumini
+Project which connect student and alumini through portal
